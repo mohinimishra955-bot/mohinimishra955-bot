@@ -1,45 +1,94 @@
-# Hi there, I'm Mohini Mishra 👋
+# Hi, I'm Mohini Mishra 👋
 
-🎓 B.Tech 3rd Year | Buddha Institute of Technology, Gorakhpur (AKTU)  
-📊 Aspiring Data Analyst | Learning & Building Every Day  
-🏅 Sports Enthusiast
+🎓 B.Tech CSE Student | AKTU
+📊 Aspiring Data Analyst
+🏆 Hackathon Team Leader
+🚀 Passionate about transforming data into actionable insights
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🔍 Currently diving deep into **Data Analytics**
-- 📈 Comfortable with **Excel** (Pivot Tables, Dashboards, Charts)
-- 🐍 Learning **Python** for data analysis
-- 🌐 Basic knowledge of **HTML, CSS & JavaScript**
-- 🎯 Goal: Land a career in **Data Analytics**
-- ⚡ Fun fact: I'm as competitive on the field as I am with my code!
+I'm a B.Tech CSE student with a strong interest in Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+
+I enjoy analyzing data, identifying patterns, solving problems, and explaining complex concepts in a simple and understandable way.
+
+Currently building my foundation in Data Analytics through practical projects, virtual experience programs, and continuous learning.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Data Analytics
+- Microsoft Excel
+- PostgreSQL
+- Statistics
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+### Programming
+- Python (Learning)
+- HTML
+- CSS
+- JavaScript
+
+### Professional Skills
+- Leadership
+- Team Collaboration
+- Communication
+- Problem Solving
+- Analytical Thinking
+- Business Thinking
 
 ---
 
-## 📌 Featured Project
+## 📚 Certifications
 
-### 📊 [Excel Sales Dashboard](https://github.com/mohinimishra955-bot/Excel-Sales-Dashboard)
-> Sales Performance Dashboard with Pivot Tables, Slicers & interactive charts  
-> analyzing regional, product-wise & monthly sales trends.
+🏅 Tata Group – GenAI Powered Data Analytics Job Simulation (Forage)
 
----
+🏅 Microsoft Excel Beginners to Advance – Skill Course
 
-## 📫 Let's Connect
+🏅 PostgreSQL Training
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohini-mishra-8b02633a9)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohinimishra04/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MohiniMishraut)
+🏅 Statistics Training
 
 ---
 
-> *"Every expert was once a beginner."* 🌱
+## 🚀 Current Focus
+
+- Python for Data Analysis
+- Power BI
+- JPMorgan Chase Quantitative Research Virtual Experience
+- Building Real-World Data Analytics Projects
+- Strengthening GitHub Portfolio
+
+---
+
+## 📌 Featured Projects
+
+🔹 Excel Sales Dashboard
+
+🔹 Data Analytics Projects (Coming Soon)
+
+🔹 Natural Gas Price Analysis (JPMorgan Project)
+
+---
+
+## 📈 Career Goal
+
+To become a Data Analyst who can combine analytical thinking, business understanding, and data-driven decision making to solve real-world problems.
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn:
+www.linkedin.com/in/mohini-mishra-8b02633a9
+
+📧 Email:
+mohinimishra955@gmail.com
+
+---
+
+⭐ “Consistency beats intensity.”
